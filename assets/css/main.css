@@ -1700,7 +1700,7 @@ iPad 3
 @media only screen and (min-device-width: 320px) and (max-device-height: 568px) and (orientation : portrait){
 /* Styles */
 #text {
-display: block;
+display: inline;
 }
 #probel{
 display:none;
