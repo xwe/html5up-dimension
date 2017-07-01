@@ -1628,7 +1628,9 @@
 #text {
 display:flex;
 }
-
+#probel{
+color:transparent;
+}
 
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
@@ -1698,6 +1700,12 @@ iPad 3
 @media only screen and (min-device-width: 320px) and (max-device-height: 568px) and (orientation : portrait){
 /* Styles */
 	
+#text {
+display: block;
+}
+#probel{
+display:none;
+}
 	
 	
 }
