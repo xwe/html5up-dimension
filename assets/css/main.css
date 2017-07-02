@@ -1766,8 +1766,6 @@ display:none;
 /* Styles */
 }
 
-
-
 ::-webkit-input-placeholder { /* WebKit browsers */
     color:    rgba(255, 255, 255, 0.63)!important;
 }
