@@ -1577,6 +1577,9 @@
 			opacity: 0.75;
 			margin-bottom: 0;
 			text-transform: uppercase;
+			background: rgba(137, 255, 0, 0.18);
+    border-radius: 5px;
+    font-weight: 900;
 		}
 
 		body.is-article-visible #footer {
