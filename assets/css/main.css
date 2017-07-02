@@ -1772,14 +1772,14 @@ display:none;
 
 
 ::-webkit-input-placeholder { /* WebKit browsers */
-    color:    #999!important;
+    color:    rgba(255, 255, 255, 0.63)!important;
 }
 :-moz-placeholder { /* Mozilla Firefox 4 to 18 */
-    color:    #999!important;
+    color:    rgba(255, 255, 255, 0.63)!important;
 }
 ::-moz-placeholder { /* Mozilla Firefox 19+ */
-    color:    #999!important;
+    color:    rgba(255, 255, 255, 0.63)!important;
 }
 :-ms-input-placeholder { /* Internet Explorer 10+ */
-    color:    #999!important;
+    color:    rgba(255, 255, 255, 0.63)!important;
 }
