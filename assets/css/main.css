@@ -1502,6 +1502,8 @@
 				text-indent: 4rem;
 				overflow: hidden;
 				white-space: nowrap;
+				    background-color: rgba(76, 175, 80, 0.55);
+    border-radius: 6px;
 			}
 
 				#main article .close:before {
