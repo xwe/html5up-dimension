@@ -1230,6 +1230,7 @@
 			line-height: 5.5rem;
 			border: solid 1px #ffffff;
 			border-radius: 100%;
+			background: rgba(137, 255, 0, 0.44);
 		}
 
 			#header .logo .icon:before {
