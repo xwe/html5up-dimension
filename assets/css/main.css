@@ -1645,7 +1645,12 @@ color:transparent;
 
 /* Smartphones (portrait) ----------- */
 @media only screen and (max-width : 320px) {
-/* Styles */
+#text {
+display: inline;
+}
+#probel{
+display:none;
+}
 }
 
 /* iPads (portrait and landscape) ----------- */
