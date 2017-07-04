@@ -359,7 +359,7 @@
 		-webkit-transition: border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, background-color 0.2s ease-in-out;
 		-ms-transition: border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, background-color 0.2s ease-in-out;
 		transition: border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, background-color 0.2s ease-in-out;
-		background: rgba(124, 154, 137, 0.58);
+		background: linear-gradient(45deg, rgba(0, 0, 0, 0.34), rgba(168, 226, 100, 0.38));
 		border-radius: 4px;
 		border: solid 1px #ffffff;
 		color: inherit;
